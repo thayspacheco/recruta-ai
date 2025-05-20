@@ -100,9 +100,13 @@ A base deve conter as seguintes colunas:
 ## Integrantes
 
 Marcelo Rodrigues - RM 357580
+
 Ricardo da Silva - RM 357196
+
 Thays Pacheco - RM 357535
+
 Vitor Henrique da Silva Matos - RM 357474
+
 Wesley Bonpam dos Santos - RM 357542
 
 ---
