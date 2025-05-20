@@ -1,12 +1,12 @@
 # 🤖 Recrut.AI – Triagem Inteligente com IA para Recrutamento
 
-Este é o projeto desenvolvido para o **Datathon de Data Analytics** com o desafio de aplicar **Inteligência Artificial** aos processos de recrutamento da empresa **Decision**, especializada em serviços de bodyshop no setor de TI.
+Este é o projeto desenvolvido para o **Datathon de Data Analytics** com o desafio de aplicar Inteligência Artificial aos processos de recrutamento da empresa Decision, especializada em serviços de bodyshop no setor de TI.
 
 ---
 
 ## 🎯 Objetivo
 
-Desenvolver uma solução com IA que otimize o processo de seleção, melhorando o **match entre candidatos e vagas** de forma ágil, escalável e baseada em dados concretos. O projeto foca em responder três perguntas principais:
+Desenvolver uma solução com IA que otimize o processo de seleção, melhorando o match entre candidatos e vagas de forma ágil, escalável e baseada em dados concretos. O projeto foca em responder três perguntas principais:
 
 - Este candidato tem o perfil técnico ideal para a vaga?
 - Ele se encaixa na cultura e no tipo de empresa contratante?
@@ -77,17 +77,6 @@ A base deve conter as seguintes colunas:
 
 ---
 
-## 📁 Outras bases utilizadas (versões reduzidas)
-
-Foram incluídas versões "light" das bases originais para viabilizar a execução no GitHub:
-
-- `data/applicants_light.json`
-- `data/prospects_light.json`
-- `data/vagas_light.json`
-
-Esses arquivos são anonimizados, reduzidos e compatíveis com o notebook analítico.
-
----
 
 ## 📊 Tecnologias Utilizadas
 
@@ -108,11 +97,13 @@ Esses arquivos são anonimizados, reduzidos e compatíveis com o notebook analí
 
 ---
 
-## 🙋‍♀️ Autora
+## Integrantes
 
-**Thays Pacheco**  
-Especialista em FP&A, apaixonada por IA aplicada a problemas reais.  
-[LinkedIn](https://www.linkedin.com/in/thayspacheco)
+Marcelo Rodrigues - RM 357580
+Ricardo da Silva - RM 357196
+Thays Pacheco - RM 357535
+Vitor Henrique da Silva Matos - RM 357474
+Wesley Bonpam dos Santos - RM 357542
 
 ---
 
