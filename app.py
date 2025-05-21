@@ -5,13 +5,16 @@ import plotly.express as px
 st.set_page_config(page_title="Recrut.AI - Visualização com CSV Pronto", layout="wide")
 
 st.markdown("""
-# 🔍 Recrut.AI – Visualização a partir do CSV de Composição
+# 🔍 Recruta.AI – Triagem ágil e estratégica com IA
 
-Este app carrega diretamente um arquivo `.csv` contendo a composição de score por categoria e por vaga, exportado da versão local.
+Use este App para tomar decisões mais rápidas e baseadas em dados nos seus processos seletivos!
 
-- Nenhum modelo é executado
-- Os gráficos são gerados com base nos dados reais do seu notebook
+Aqui você pode:
+- Ver o **score dos candidatos por vaga**, com base em Hard Skills, Soft Skills, Idiomas, Formação e Experiência.
+- Entender quais **categorias pesam mais** na pontuação de cada vaga.
+- **Gerar relatórios prontos** para análises detalhadas.
 """)
+
 
 uploaded_file = st.file_uploader("📤 Envie o arquivo `composicao_mock_simulada.csv`", type="csv")
 
