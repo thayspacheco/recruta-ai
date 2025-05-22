@@ -1,4 +1,4 @@
-# 🤖 Recrut.AI – Triagem Inteligente com IA
+# 🤖 Recruta.AI – Triagem Inteligente com IA
 
 Este projeto foi desenvolvido para o Datathon de Data Analytics com o objetivo de aplicar técnicas de Inteligência Artificial no processo de recrutamento e seleção da empresa Decision.
 
