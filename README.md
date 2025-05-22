@@ -87,7 +87,7 @@ streamlit run app_local_completo.py
 
 ---
 
-## 🙋‍♀️ Autores
+##  Autores
 
 Marcelo Rodrigues - RM 357580
 
