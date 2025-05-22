@@ -80,8 +80,7 @@ streamlit run app_local_completo.py
 ## 📁 Arquivos importantes
 
 - `candidatos_mock_limpo.csv` → base original dos candidatos
-- `candidatos_mock_simulado.csv` → base convertida para rodar no mock
-- `composicao_mock_simulada.csv` → saída gerada com modelo real, usada para visualização direta
+- `composicao_mock_simulada.csv` → base convertida para rodar no mock
 - `app_local_completo.py` → app completo com modelo real
 - `app.py` → app mock usado no deploy online
 - `README.md` → este arquivo :)
