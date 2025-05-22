@@ -87,10 +87,15 @@ streamlit run app_local_completo.py
 
 ---
 
-## 🙋‍♀️ Autora
+## 🙋‍♀️ Autores
 
-**Thays Pacheco**  
-Especialista em FP&A com interesse em aplicações práticas de IA em negócios  
-[LinkedIn](https://www.linkedin.com/in/thayspacheco)
+Marcelo Rodrigues - RM 357580
 
+Ricardo da Silva - RM 357196
+
+Thays Pacheco - RM 357535
+
+Vitor Henrique da Silva Matos - RM 357474
+
+Wesley Bonpam dos Santos - RM 357542
 ---
