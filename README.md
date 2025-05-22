@@ -29,7 +29,7 @@ O projeto inclui:
 
 ### 🔗 Versão online no Streamlit Cloud
 
-> [Clique aqui para acessar a aplicação](https://recrutai.streamlit.app)  
+> [Clique aqui para acessar a aplicação](https://recruta-ai-app.streamlit.app/)
 > *(Substituir com o link do seu deploy)*
 
 Faça o upload do arquivo [`composicao_mock_simulada.csv`](./composicao_mock_simulada.csv) para visualizar os gráficos gerados com base nos dados reais exportados da versão local.
